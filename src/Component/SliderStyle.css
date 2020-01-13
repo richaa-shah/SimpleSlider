@@ -1,0 +1,35 @@
+.outerBox {
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 50px;
+  height: 20px;
+  display: block;
+}
+
+.uncheckedOuterBox {
+  background-color: grey;
+}
+
+.checkedOuterBox {
+  background-color: green;
+}
+
+.handle {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: white;
+  transition: 0.3s;
+}
+
+.uncheckedHandle {
+  left: 0px;
+}
+
+.checkedHandle {
+  margin-left: 30px;
+}
+.checkbox {
+  display: none;
+}
