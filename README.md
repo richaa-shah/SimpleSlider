@@ -1,0 +1,2 @@
+# SimpleSlider
+Created with CodeSandbox
